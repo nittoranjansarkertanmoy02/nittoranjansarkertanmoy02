@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nittoranjansarkertanmoy02&label=Profile%20views&color=0e75b6&style=flat" alt="nittoranjansarkertanmoy02" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce App(Shoppy-Mart)](https://github.com/nittoranjansarkertanmoy02/e_commerce_app)
+- 🔭 I’m currently working on [E-Commerce App(Shoppy-Mart)](https://github.com/nittoranjansarkertanmoy02/chatting_app)
 
 - 🌱 I’m currently learning **Flutter**
 
