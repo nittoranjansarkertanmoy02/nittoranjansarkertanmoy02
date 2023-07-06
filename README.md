@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nittoranjansarkertanmoy23](https://medium.com/@nittoranjansarkertanmoy23)
 
-- 💬 Ask me about **C,Html,Css,Java,JavaScript**
+- 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
 
 - 📫 How to reach me **nittaranjansarkertanmoy2022@gmail.com**
 
